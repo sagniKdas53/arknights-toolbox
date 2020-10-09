@@ -77,4 +77,4 @@ In addition, there are some components, which also has translation requirements.
 
 ## Development
 
-Importent! Please see [wiki](../../wiki).
+Important! Please see [wiki](../../wiki).
